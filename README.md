@@ -17,7 +17,7 @@
 - CSS ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
 
 ### Frameworks & Libraries
-- Flutter 
+- Flutter ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
 - Laravel ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
 - Vue.js ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
 - React.js ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=flat)
